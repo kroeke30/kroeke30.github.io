@@ -33,7 +33,7 @@ The purpose of this document is to describe how to host a resume online using Gi
 16. Type "_username_.github.io" into the address bar of your browser, but replace _username_ with your Github account username. For example, if your Github account username is kroeke30, then you must enter "kroeke30.github.io" in the address bar of your browser.
 17. If you do not see your resume, try step #16 again after 20 minutes.
 
-![Resume Gif](kroeke30.github.io/resumegif.gif)
+![Resume Gif](https://kroeke30.github.io/resumegif.gif)
 
 ### More Resources
 - [A Markdown tutorial](https://www.markdowntutorial.com/)
