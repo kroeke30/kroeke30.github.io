@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+# ADAM KROEKER  
+1654-400 Webb Place  
+Winnipeg, MB R3L 0N9  
+204-304-1172  
+kroeke30@myumanitoba.ca  
 
-You can use the [editor on GitHub](https://github.com/kroeke30/kroeke30.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## EDUCATION  
+**Bachelor of Science, Major (Computer Science)**  
+September 2014 – Present  
+University of Manitoba, Winnipeg MB  
+Minor in Philosophy  
+Currently enrolled in: Software Engineering 1, Computer Organization, Analysis of Algorithms and Data Structures, and Technical Communication in Computer Science.  
+Expected graduation: October 2022  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Explore French Language Bursary Program**  
+Summer 2014  
+University of Moncton, Moncton NB  
+GPA: 3.75  
 
-### Markdown
+**Mennonite Collegiate Institute**  
+Graduated June 2014  
+Gretna, MB  
+First-class Honours  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## TECHNICAL SKILLS  
+**Programming:**  
+Practical experience: JavaScript, PHP, SQL, HTML, CSS  
+Course knowledge: Java, C, C++  
 
-```markdown
-Syntax highlighted code block
+**Software:**  
+Practical experience: Microsoft Office, Eclipse, Sourcetree, MySQL Workbench  
+Course knowledge: Dr. Java, JetBrains CLion, IntelliJ IDEA, Android Studio  
 
-# Header 1
-## Header 2
-### Header 3
+**Operating Systems:**  
+Practical experience: Microsoft Windows  
+Course knowledge: Linux  
 
-- Bulleted
-- List
+## WORK EXPERIENCE  
+**Tasker**  
+September 2020 - Septemeber 2021  
+TaskRabbit, Winnipeg MB  
+• Independently followed instructions to assemble furniture safely and efficiently.  
+• Moved and positioned furniture according to clients' desired layout.  
 
-1. Numbered
-2. List
+**Courier**  
+January 2018 – September 2021  
+Skip the Dishes, Winnipeg MB  
+• Delivered food in a timely manner to provide a positive customer experience.  
+• Precisely followed delivery instructions to ensure that customers received their order.  
 
-**Bold** and _Italic_ and `Code` text
+**Application Developer**  
+January 2020 – May 2020  
+Pollard Banknote, Winnipeg MB  
+• Developed engaging 2D web games and websites both independently and through collaboration with team members.  
+• Communicated with supervisor and co-workers to avoid mistakes and improve efficiency.  
+• Maintained clean and organized code in all the projects I worked on to avoid introducing bugs and to improve readability.  
+• Wrote and reviewed technical documents to ensure that procedures are understood and easy to follow.  
+• Helped with upgrading code from PHP 5 to PHP 7 and conducted thorough testing.  
+• Wrote PHP scripts for reporting information to clients from data in a MySQL database.  
 
-[Link](url) and ![Image](src)
-```
+**Production Support**  
+Summers 2015 – 2019  
+Friesens Corporation, Altona MB  
+• Collaborated with co-workers to bind and pack books as efficiently as possible.  
+• Maintained a clean work area to ensure smooth workflow.  
+• Operated machinery in a careful manner to improve safety.  
+• Inspected books to ensure quality standards were met.  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Community Donation Centre Ambassador**  
+September 2016 – April 2017  
+Value Village, Winnipeg MB  
+• Received donations from people in the community and explained to them that for every donation they make Value Village would donate money to Diabetes Canada.  
+• Assisted customers in finding merchandise to provide a pleasurable shopping experience.  
+• Organized merchandise so shoppers could find what they need as quickly as possible.  
+• Performed janitorial duties as needed.  
 
-### Jekyll Themes
+**Hardware Associate**  
+February 2015 – April 2015  
+Walmart, Winnipeg MB  
+• Stocked shelves and organized products to improve the store’s appearance.  
+• Mixed paint according to customers’ specifications, allowing them to customize their colour.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kroeke30/kroeke30.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Clerk**  
+May 2013 – June 2014  
+Movie Haven, Altona MB  
+• Pleasantly assisted customers in finding DVDs.  
+• Maintained a clean and organized store, allowing customers to easily locate DVDs.  
