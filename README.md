@@ -41,12 +41,13 @@ The purpose of this document is to describe how to host a resume online using Gi
 - [Notepad++](https://notepad-plus-plus.org/)
 
 ## Authors and Acknowledgments
+Andrew Etter and his book, _Modern Technical Writing_.
+
 ### Group members
-- Singh, Arman Preet
-- Makumator-Jones, Johnson
-- Gao, Hong
-- Kroeker, Adam
-- Stoeke, Cain
+- Arman Preet Singh
+- Johnson Makumator-Jones
+- Hong Gao
+- Cain Stoeke
 
 ## FAQs
 ### Why is Markdown better than a word processor?
