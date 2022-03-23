@@ -44,7 +44,7 @@ The purpose of this document is to describe how to host a resume online using Gi
 Andrew Etter and his book, _Modern Technical Writing_.
 
 ### Group members
-- Arman Preet Singh
+- Aman Preet Singh
 - Johnson Makumator-Jones
 - Hong Gao
 - Cain Stoeke
