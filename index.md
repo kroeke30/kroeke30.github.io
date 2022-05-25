@@ -1,6 +1,6 @@
 # ADAM KROEKER  
 1654-400 Webb Place  
-Winnipeg, MB R3L 0N9  
+Winnipeg, MB R3B 3J3  
 204-304-1172  
 kroeke30@myumanitoba.ca  
 
