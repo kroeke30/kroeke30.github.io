@@ -32,7 +32,7 @@ SEPTEMBER 2021 – DECEMBER 2021
 
 JANUARY 2020 – MAY 2020  
 **RACETRAX GAME,** POLLARD BANKNOTE WORKTERM  
-[Click here to go to the Kansas Lottery PLayOn website.](https://www.kslottery.com/PlayOn/index.html)  
+[Click here to visit the Kansas Lottery PLayOn website.](https://www.kslottery.com/PlayOn/index.html)  
 • Developed engaging 2D web games in JavaScript using the Cocos2d framework.  
 • I specifically worked on the Start page for the game, including an intro animation.  
 • Used Sourcetree, Bitbucket and Jira to collaborate with team members.  
