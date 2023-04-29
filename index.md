@@ -16,9 +16,10 @@ SEPTEMBER 2022 – DECEMBER 2022
 JANUARY 2022 – APRIL 2022  
 **PERSONAL HEALTHCARE APP,** SOFTWARE ENGINEERING  
 [Click here to see the project website.](/PersonalHealthcareWebsite/)  
-[Click here to get an APK of the app.](https://drive.google.com/drive/folders/1j1siGLkH_Gp0NXCIeegCs5K9VZ9d8xMG?usp=sharing)  
+[Click here to get the APK file.](https://drive.google.com/drive/folders/1j1siGLkH_Gp0NXCIeegCs5K9VZ9d8xMG?usp=sharing)  
 • Worked as part of a group to create an android app for our Software Engineering course.  
 • The app helps users find what health conditions may be causing their symptoms.  
+• I specifically worked on the Search-by-Picture feature that allows users to submit their symptoms by clicking on an image of the affected body part.  
 • Created in Java using Android Studio and GitLab.  
 
 SEPTEMBER 2021 – DECEMBER 2021  
@@ -26,6 +27,7 @@ SEPTEMBER 2021 – DECEMBER 2021
 [Click here to use the app in your browser.](/TimeTrackerApp/)  
 • Worked as part of a group to create a web app for our Human-Computer Interaction course.  
 • The app helps users schedule their activities and tasks.  
+• I specifically worked on the Saved Reports page that allow users to see previously saved reports.  
 • Created in JavaScript, HTML, and CSS using the Bootstrap framework and GitHub.   
 
 JANUARY 2020 – MAY 2020  
