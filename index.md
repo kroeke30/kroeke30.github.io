@@ -2,15 +2,16 @@
 1654-400 Webb Place  
 Winnipeg, MB R3B 3J3  
 204-304-1172  
-kroeke30@myumanitoba.ca  
+14akroeker@gmail.com  
+linkedin.com/in/adam-kroeker  
 
-## EDUCATION  
-**Bachelor of Science, Major (Computer Science)**  
-September 2014 – Present  
-University of Manitoba, Winnipeg MB  
-Minor in Philosophy  
-Currently enrolled in: Software Engineering 1, Computer Organization, Analysis of Algorithms and Data Structures, and Technical Communication in Computer Science.  
-Expected graduation: October 2022  
+## PROJECTS  
+SEPTEMBER 2022 – DECEMBER 2022  
+**Temperature Chaser Robot,** Robotic Programming  
+  
+• Worked independently to create an Arduino-based robot for my Robotic Programming course.  
+• The robot changed the temperature of an object by driving to cooler or warmer areas.  
+• The robot’s program was created in C++ using the Arduino IDE.  
 
 **Explore French Language Bursary Program**  
 Summer 2014  
