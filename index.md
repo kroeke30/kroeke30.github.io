@@ -13,15 +13,25 @@ SEPTEMBER 2022 – DECEMBER 2022
 • The robot changed the temperature of an object by driving to cooler or warmer areas.  
 • The robot’s program was created in C++ using the Arduino IDE.  
 
-**Explore French Language Bursary Program**  
-Summer 2014  
-University of Moncton, Moncton NB  
-GPA: 3.75  
+JANUARY 2022 – APRIL 2022  
+**PERSONAL HEALTHCARE APP,** SOFTWARE ENGINEERING  
+[Click here to get an APK of the app.](https://www.hellothere.rf.gd)  
+• Worked as part of a group to create an android app for our Software Engineering course.  
+• The app helps users find what health conditions may be causing their symptoms.  
+• Created in Java using Android Studio and GitLab.  
 
-**Mennonite Collegiate Institute**  
-Graduated June 2014  
-Gretna, MB  
-First-class Honours  
+SEPTEMBER 2021 – DECEMBER 2021  
+**TIME TRACKER APP,** HUMAN-COMPUTER INTERACTION  
+[Click here to use the app in your browser.](https://www.hellothere.rf.gd)  
+• Worked as part of a group to create a web app for our Human-Computer Interaction course.  
+• The app helps users schedule their activities and tasks.  
+• Created in JavaScript, HTML, and CSS using the Bootstrap framework and GitHub.   
+
+JANUARY 2020 – MAY 2020  
+**RACETRAX GAME,** POLLARD BANKNOTE WORKTERM  
+[Click here to go to the Kansas Lottery PLayOn website.](https://www.kslottery.com/PlayOn/index.html)  
+• Developed engaging 2D web games in JavaScript using the Cocos2d framework.  
+• Used Sourcetree, Bitbucket and Jira to collaborate with team members.  
 
 ## TECHNICAL SKILLS  
 **Programming:**  
