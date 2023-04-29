@@ -8,7 +8,7 @@ Winnipeg, MB R3B 3J3
 ## PROJECTS  
 SEPTEMBER 2022 – DECEMBER 2022  
 **Temperature Chaser Robot,** Robotic Programming  
-[Click here to see images and videos of the robot.](https://www.hellothere.rf.gd)  
+[Click here to see images and videos of the robot.](https://drive.google.com/drive/folders/1Enr5P5ziI5ILpJkGsD8HMYNVRkxaqRI3?usp=share_link)  
 • Worked independently to create an Arduino-based robot for my Robotic Programming course.  
 • The robot changed the temperature of an object by driving to cooler or warmer areas.  
 • The robot’s program was created in C++ using the Arduino IDE.  
