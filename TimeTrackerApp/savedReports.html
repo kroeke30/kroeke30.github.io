@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Time Tracker</title>
+
+	<!--Bootstrap-->
+	<link rel="stylesheet" href="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css">
+	
+	<!--Font awesome-->
+	<link rel="stylesheet" href="Libraries/fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.min.css" />
+
+	<link rel="stylesheet" href="./css/general.css">
+	<link rel="stylesheet" type="text/css" href="./css/reportStyle.css" />
+	<style>
+		.table td{
+			vertical-align:middle;
+		}
+	</style>
+<body>
+
+	<div id="navigation">
+
+		<ul class="horizontal">
+			<li class="navigation" style="float:left">
+
+				<a style="pointer-events: none; min-width: 250px; float:left;">	
+					<img src="./images/logo2.gif" alt="Logo of this app" id="logo" style="min-width: 100px;">
+					<span>Time Tracker</span>
+				</a>
+
+			</li>
+
+			<li class="navigation" >
+						
+				<a href="home.html" >Home</a>
+			</li>
+
+			<li class="navigation">
+				
+				<a href="report.html">Report</a>
+			</li>
+
+			<li class="navigation">
+				<a class="active" href="savedReports.html">Saved Reports</a>
+			</li>
+
+			<li class="navigation" style="float:right; min-width: 250px;">
+				
+				<a href="#" onclick="logoutFunc()" style="float:right;">
+					Logout
+				</a>
+			</li>
+
+		</ul>
+	</div>
+
+    <section id="reportsList" style="margin-top: 70px;">
+        <div id="bodyList" class="container">
+
+            <table class="table" id="bodyTable">
+            </table>
+
+        </div>
+    </section>
+
+	<script src="Libraries/Jquery.js"></script>
+	<script src="Libraries/popper.js"></script>
+	<script src="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js"></script>
+	
+	<script src="Libraries/chart.js"></script>
+	<script src="Libraries/dateFns.js"></script>
+	
+	<script src="./js/data.js"></script>
+	<script src="./js/script.js"></script>
+	<script src="./js/report.js"></script>
+    <script src="./js/savedReports.js"></script>
+
+</body>
+</html>

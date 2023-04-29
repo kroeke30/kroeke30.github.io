@@ -1,0 +1,105 @@
+
+
+canvas{
+  box-shadow: 0 10px 8px 0 rgb(0 0 0 / 20%);
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+canvas:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.grid{
+  display: grid;
+  grid-template-columns: auto;
+  margin-bottom: 30px;
+}
+
+.grid-item{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  padding: 0.9rem;
+  border: 1px solid #ccc;
+}
+
+div.nav-links{
+  position: relative; 
+  top: 10%;
+}
+
+
+nav button.btn{
+  display: block;
+  width: 57%;
+}
+header{
+  margin-bottom: 20px;
+}
+
+header div.row{
+  border-bottom: 1px solid #ccc;
+  padding: 2rem 0;
+}
+
+header div .btn{
+  margin-top: 20px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+
+section#report-time div.btn-wrapper{
+    text-align: center;
+    color: var(--alternative-color);
+    border: 1.5px solid var(--secondary-color);
+    border-radius: 10px;
+}
+section#report-time div.btn-wrapper button{
+  border: none;
+}
+
+section#report-time div.btn-wrapper button{
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+section#report-time div.btn-wrapper button.prev-date{
+  border-right: 1px solid var(--secondary-color);
+  border-radius: 0;
+}
+
+section#report-time div.btn-wrapper button.next-date{
+  border-left: 1px solid var(--secondary-color);
+  border-radius: 0;
+}
+
+section.chart-summary div.chart-wrapper{
+  margin-bottom: 100px;
+  height: 500px !important;
+}
+
+div#data-total p.lead{
+  font-size: 1.8rem;
+  text-align: end;
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+#column-header  h4{
+  font-weight: 400;
+  letter-spacing: 0.05em;
+}
+
+#events > div.grid-item > p:nth-child(1){
+  text-align: center;
+  text-transform: capitalize;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+

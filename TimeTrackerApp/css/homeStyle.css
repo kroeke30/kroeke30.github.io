@@ -1,0 +1,368 @@
+
+*{
+  box-sizing: border-box;
+}
+
+
+button, .btn{
+  display: block;
+  width: 57%;
+}
+
+nav div.row{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.calendar {
+  width: 65%;
+  height: auto;
+  background-color: #ffff;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+div.alert{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 10px;
+  z-index: 10000;
+}
+
+div.main-calendar{
+  background: #ffff;
+}
+
+.month {
+  width: 100%;
+  height: 8.5rem;
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px 10px 0 0;
+}
+
+.month i {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.month h1 {
+  font-size: 2.5rem;
+  font-weight: 350;
+  text-transform: capitalize;
+  letter-spacing: 0.2rem;
+  margin-bottom: 1rem;
+}
+
+.month p {
+  font-size: 1.2rem;
+}
+
+.weekdays , .days{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+.weekdays {
+  width: 100%;
+  height: 5rem;
+  padding: 0 0.4rem;
+}
+
+
+.weekdays div {
+  font-size: 1.5rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  width: calc(44.2rem / 7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--alternative-color);
+}
+
+.days {
+  width: 100%;
+  padding: 0.2rem;
+}
+
+.days div {
+  font-size: 1.2rem;
+  margin: 0.3rem;
+  width: calc(40.2rem / 7);
+  height: 5.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.2s;
+   color: var(--alternative-color);;
+}
+
+.days div.selected{
+  border: 2px solid var( --accent-color);
+  border-radius: 50%;
+}
+
+.days div:hover:not(.today) {
+  border: 0.2rem solid var( --accent-color);
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.prev-date,
+.next-date {
+  opacity: 0.5;
+  pointer-events: none;
+  cursor: default;
+}
+
+.days div.today {
+  background-color: var(--secondary-color);
+  border-radius: 50%;
+  color: #fff;
+}
+
+/* Remove margins and padding from the list */
+ul#myUL{
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  border: 1px solid var(--secondary-color);
+  border-top: none;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  background: #fff;
+}
+
+ul#myUL p{
+  padding: 12px 8px 12px 40px;
+  letter-spacing: 00.05em;
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+/* Style the list items */
+ul#myUL li {
+  cursor: pointer;
+  padding: 12px 8px 12px 40px;
+  list-style-type: none;
+  color: #000000;
+  font-size: 15px;
+  transition: 0.3s;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+ 
+  /* make the list items unselectable */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+
+
+/* When clicked on, add a background color and strike out text */
+ul#myUL li.checked {
+  background: rgb(104, 103, 103);
+  color: #fff;
+  text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+ul#myUL li.checked::before {
+  content: '';
+  position: absolute;
+  border-color: #fff;
+  border-style: solid;
+  border-width: 0 2px 2px 0;
+  top: 10px;
+  left: 16px;
+  transform: rotate(45deg);
+  height: 15px;
+  width: 7px;
+}
+
+/* Style the close button */
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 12px 16px 12px 16px;
+}
+
+.close:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+
+div#memo{
+   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+   border-radius: 10px 10px 0 0;
+   position: relative;
+}
+
+div#memo div.header a{
+  color: #fff;
+  text-decoration: underline;
+  font-size: 0.9em;
+  display: block;
+  margin-top: 15px;
+}
+
+
+/* Style the header */
+.header {
+  background-color: var(--primary-color);
+  padding: 30px 40px;
+  color: white;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+
+.header h3{
+  font-size: 1.2rem;
+  font-weight: 350;
+}
+
+/* Clear floats after the header */
+.header:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.header2 {
+  text-align: start;
+  background-color:#555457;
+  padding: 10px 5px;
+  list-style: none;
+}
+.header2 h4{
+  display: inline;
+  font-size: 15px;
+  color: white;
+}
+.header2 h4+h4:before {
+  padding: 5px;
+  color: white;
+  content: "/\00a0";
+}
+.header2 h4 a {
+  color: #3ea6d6;
+  text-decoration: none;
+}
+.header2 h4 a:hover {
+  color: #3b72eb;
+  text-decoration: underline;
+}
+
+.modal {
+   display: none; 
+  position: fixed; 
+  z-index: 10000; 
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgba(255,255,255,0.4); 
+  padding: 1.5rem;
+}
+
+.modal .modal-header{
+  position: relative;
+}
+
+.modal .modal-header h3{
+  font-size: 1.7em;
+  font-weight: 350;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  background-color: #fefefe;
+  margin: auto;
+  padding: 0;
+  border: 1px solid var(--secondary-color);
+  border-radius: 10px;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); 
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.4s
+}
+
+.modal-content label{
+  display: block;
+}
+
+.modal-content label.error{
+  visibility: hidden;
+  color: red;
+}
+
+.modal-content input , select , textarea{
+  outline: none;
+  border: 2px solid rgba(0,0,0,0.3);
+  width: 90%;
+  padding: 0.5rem;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.modal-content button{
+  width: 25%;
+}
+
+
+.modal-content input:focus , select:focus , textarea:focus{
+  border: 2px solid var(--accent-color);
+  outline: none;
+}
+.modal-content button{
+  color: #000;
+}
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0} 
+  to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:0; opacity:1}
+}
+.modal-header {
+  background-color: var(--alternative-color);
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* The Close Button */
+.close2 {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  font-size: 2em;
+}
+
+.close2:hover,
+.close2:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+

@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root{
+    --primary-color: #092434;
+    --accent-color: #ACCBE1;
+    --secondary-color: #A98743;
+    --alternative-color:#030C11;
+}
+
+*{
+    transition: all ease-out 0.2s;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(239, 246, 251,0.7);
+    color: #000;
+}
+
+.left-align{
+  position: absolute;
+  top:50%;
+  right: 0;
+  transform: translateY(-50%);
+}
+
+
+button , .btn{
+    border-radius: 0;
+    padding: 7px;
+    letter-spacing: 0.06em;
+    border: 2px solid var(--secondary-color);
+    text-transform: uppercase;
+    color: var(--alternative-color);
+    background-color: #fff;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+
+button:hover, button:focus, button:active {
+  outline: none !important;
+}
+
+nav.navbar{
+    justify-content: center;
+}
+
+nav.navbar a{
+    display: flex;
+    justify-content: center;
+}
+
+
+nav.navbar a span{
+    margin: auto 0;
+    font-size: 1em;
+    letter-spacing: 0.05em;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+#logo{ 
+    width:8%;
+}
+
+nav{
+  padding: 1rem;
+  position: relative;
+}
+
+
+div.breadcrumbs {
+    text-align: start;
+}
+
+div.breadcrumbs li{
+  font-size: 1.2em;
+  letter-spacing: 0.06em;
+  text-transform: capitalize;
+  font-weight: 400;
+  color: var(--alternative-color);
+  list-style: none;
+  display: inline-block;
+}
+
+div.breadcrumbs li+li:before {
+  padding: 8px;
+  color: #000;
+  content: "/\00a0";
+}
+div.breadcrumbs li a {
+    color: var(--alternative-color);
+    text-decoration: underline;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0 10px 8px 0 rgb(0 0 0 / 20%);
+  transition: 0.5s;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 10px;
+  text-decoration: none;
+  font-size: 1.4em;
+  letter-spacing: 0.06em;
+  text-transform: capitalize;
+  color: #c1c0c0;
+  transition: 0.3s;
+}
+
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  color: var(--secondary-color)
+}
+
+ul.menu-links{
+    list-style: none;
+    display: grid;
+    height: 100%;
+    grid-template-rows: repeat(4, 15%);
+    align-content: center;
+}
+
+ul.menu-links li a:hover{
+    color: var(--accent-color);
+}
+
+ul.menu-links li.active a:hover{
+   color: var(--secondary-color);
+}
+
+ul.menu-links li.active a{
+    color: var(--secondary-color);
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+ul.menu-links li.active a::after {
+    content: "";
+    position: absolute;
+    top: 85%;
+    height: 2px;
+    width: 90%;
+    left: 15%;
+    right: 0;
+    background-color: var(--accent-color);
+    transition: 0.3s ease all .1s;
+    margin: auto;
+}
+
+ul.menu-links li.active a:hover::after {
+    width: 100%;
+    left: 20%;
+    transition: 0.4s ease all;
+}
+
+ul.gray {
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+ul.horizontal {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #212529;   
+}
+
+li.navigation {
+  display: inline-block;   
+}
+
+#navigation {
+  height: 6.25em;
+  background-color: #092434;
+  color: #fff;
+  text-align: center;
+  -webkit-box-shadow: 0 10px 8px 0 rgb(0 0 0 / 20%);;
+  -moz-box-shadow: 0 10px 8px 0 rgb(0 0 0 / 20%);;
+   box-shadow: 0 10px 8px 0 rgb(0 0 0 / 20%);;
+}
+
+#navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#navigation ul li a {
+  display: inline-block;
+  vertical-align: top;
+  height: 6.25em;
+  width: 10em;
+  line-height: 6.25em;
+  text-decoration: none;
+  color: #fff;
+  transition: .3s background-color;
+}
+
+#navigation ul li a:hover {
+  background-color: #A98743;
+}
+
+#navigation ul li a:active {
+  background-color: #6CBDF2;
+  cursor: default;
+}
+
+#navigation li{
+  display: inline-block;   
+}
+
+.active {
+  background-color: #A98743;
+}

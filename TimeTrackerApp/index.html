@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="COMP 3020 project">
+	<meta name="keywords" content="Time Tracker">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Time Tracker</title>
+
+	<!--Bootstrap-->
+	<link rel="stylesheet" href="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css">
+
+	<!--Font awesome-->
+	<link rel="stylesheet" href="Libraries/fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.min.css" />
+
+	<!--Animate.css-->
+	<link rel="stylesheet" href="Libraries/animate.css" />
+	
+	<link rel="stylesheet" type="text/css" href="./css/general.css" />
+	<link rel="stylesheet" type="text/css" href="./css/login.css" />
+
+</head>
+<body>
+	
+	<nav class="navbar navbar-light">
+		<a class="navbar-brand" href="#">
+			<img src="./images/logo2.gif" alt="Logo of this app" id="logo">
+			<span>Time Tracker</span>
+		</a>
+	</nav>
+
+	<main id="mainHeader">
+		
+		<form id="loginpage"  class="animate__animated">
+
+			<label id="usernameIdError" for="usernameId" style="visibility: hidden">Username must not be empty!</label>
+			<input type="text" name="username" id="usernameId" class="loginpageField" placeholder="Username">
+			
+			<label id="passwordIdError" for="passwordId" style="visibility: hidden">Password must not be empty!</label>
+			<input type="password" name="password" id="passwordId" class="loginpageField" placeholder="Password">
+
+			<button type="submit" class ="btn" id="loginpageSubmit"><i class="fas fa-lock"></i> Login</button>
+
+			<p class="info"><i class="fas fa-info-circle"></i> You can type in any username or password to get in</p>
+		</form>
+		
+	</main>
+
+	<script>
+		const loginForm = document.getElementById("loginpage");
+		const loginButton = document.getElementById("loginpageSubmit");
+
+		loginButton.addEventListener("click", (e) => {
+			e.preventDefault();
+
+			if(document.getElementById("loginpage").usernameId.value === ""){
+
+				document.getElementById("usernameIdError").style.visibility="visible";
+				document.getElementById("usernameIdError").style.color="#bd2130";
+				document.getElementById("usernameId").style.border="1px solid red";
+			}
+			if(document.getElementById("loginpage").passwordId.value === ""){
+
+				document.getElementById("passwordIdError").style.visibility="visible";
+				document.getElementById("passwordIdError").style.color="#bd2130";
+				document.getElementById("passwordId").style.border="1px solid red";
+
+			}
+
+    		if (document.getElementById("loginpage").usernameId.value != "" && document.getElementById("loginpage").passwordId.value != "") {
+        		window.location.href="home.html";
+    		}
+			else{
+				// added a shake animation for when an field is empty
+				loginForm.classList.add('animate__shakeX');
+
+				loginForm.onanimationend = () => {
+					loginForm.classList.remove('animate__shakeX');
+				};
+			}
+
+		})
+
+	</script>
+</body>
+</html>

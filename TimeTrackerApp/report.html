@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Time Tracker</title>
+
+	<!--Bootstrap-->
+	<link rel="stylesheet" href="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css">
+	
+	<!--Font awesome-->
+	<link rel="stylesheet" href="Libraries/fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.min.css" />
+	<link rel="stylesheet" href="./css/general.css">
+	<link rel="stylesheet" type="text/css" href="./css/reportStyle.css" />
+<body>
+
+	<div id="navigation">
+
+		<ul class="horizontal">
+			<li class="navigation" style="float:left">
+
+				<a style="pointer-events: none; min-width: 250px; float:left;">	
+					<img src="./images/logo2.gif" alt="Logo of this app" id="logo" style="min-width: 100px;">
+					<span>Time Tracker</span>
+				</a>
+
+			</li>
+
+			<li class="navigation" >
+						
+				<a href="home.html" >Home</a>
+			</li>
+
+			<li class="navigation">
+				
+				<a class="active" href="report.html">Report</a>
+			</li>
+
+			<li class="navigation">
+				<a href="savedReports.html">Saved Reports</a>
+			</li>
+
+			<li class="navigation" style="float:right; min-width: 250px;">
+				
+				<a href="#" onclick="logoutFunc()" style="float:right;">
+					Logout
+				</a>
+			</li>
+
+		</ul>
+	</div>
+
+	<nav>
+		<div class="container">
+			<div class="row">
+
+				<div class="col-lg-4">
+					<button type="button" id="myBtn" class="btn"> <i class="fas fa-plus-circle"></i> ADD EVENT</button>
+				</div>
+				
+				<div class="col-lg-4 left-align" onclick="saveReport()">
+					<button type="button" class="btn">Save this report</button>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	<section class="chart-summary">
+		<div class="container">
+			<div class="chart-wrapper">
+				<canvas id="myChart" width="600" height="300"></canvas>
+			</div>
+		</div>
+	</section>
+
+	<section class="data-summary">
+		<div class="container">
+			<div id="data-total"></div>
+			<div class="row text-center" id="column-header">
+				
+				<div class="col-lg-4">
+					<h4>Event Categories</h4>
+				</div>
+
+				<div class="col-lg-4">
+					<h4>Duration</h4>
+				</div>
+
+				<div class="col-lg-4">
+					<h4>Percentage</h4>
+				</div>
+				
+	
+			</div>
+
+			<div class="grid" id="events"></div>
+		</div>
+	</section>
+
+	<script src="Libraries/Jquery.js"></script>
+	<script src="Libraries/popper.js"></script>
+	<script src="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js"></script>
+	
+	<script src="Libraries/chart.js"></script>
+	<script src="Libraries/dateFns.js"></script>
+	<script src="./js/data.js"></script>
+	<script src="./js/report.js"></script>
+
+</body>
+</html>

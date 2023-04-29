@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Time Tracker</title>
+	
+	<!--Bootstrap-->
+	<link rel="stylesheet" href="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.min.css">
+	
+	<!--Font awesome-->
+	<link rel="stylesheet" href="Libraries/fontawesome-free-5.15.3-web/fontawesome-free-5.15.3-web/css/all.min.css" />
+	<!--Animate.css-->
+	<link rel="stylesheet" href="Libraries/animate.css" />
+
+	<link rel="stylesheet" href="./css/general.css">
+	<link rel="stylesheet" type="text/css" href="./css/homeStyle.css" />
+
+<body>
+
+	<div id="navigation">
+
+		<ul class="horizontal">
+			<li class="navigation" style="float:left">
+
+				<a style="pointer-events: none; min-width: 250px; float:left;">
+					<img src="./images/logo2.gif" alt="Logo of this app" id="logo" style="min-width: 100px;">
+					<span>Time Tracker</span>
+				</a>
+
+			</li>
+
+			<li class="navigation" >
+
+				<a class="active" href="home.html" >Home</a>
+			</li>
+
+			<li class="navigation">
+
+				<a href="report.html">Report</a>
+			</li>
+
+			<li class="navigation">
+
+				<a href="savedReports.html">Saved Reports</a>
+			</li>
+
+			<li class="navigation" style="float:right; min-width: 250px;">
+
+				<a href="#" onclick="logoutFunc()" style="float:right;">
+					Logout
+				</a>
+			</li>
+
+		</ul>
+	</div>
+
+	<div id="myModal" class="modal">
+
+		<!-- Modal content -->
+		<div class="modal-content" style="width: 60%">
+			<div class="modal-header">
+				<span class="close2">&times;</span>
+				<h3>Add an event</h3>
+
+			</div>
+
+			<div class="modal-body">
+
+				<div class="container">
+					<form action="#" onsubmit="return addEventFn(event)">
+
+						<label for="title">Title</label>
+						<input type="text" id="title" name="titleName" placeholder="Event Title" required>
+						<label id="titleError" class="error" for="title">Title must not be empty!</label>
+
+
+						<label for="category">Category</label>
+						<select id="category" name="categoryName">
+							<option value="work">Work</option>
+							<option value="study">Study</option>
+							<option value="recreation">Recreation</option>
+						</select>
+
+						<label for="customCategory">Add a category</label>
+						<input type="text" id="customCategory" name="customCategoryName" placeholder="add category">
+						<button type="button" class="btn" onclick="addCategoryFn()">Add category</button>
+						<label id="customCatError" class="error" for="customCategory">Add a category must not be empty!</label>
+
+
+
+						<label for="notes">Notes</label>
+						<textarea id="notes" name="notesName" placeholder="Write something.."></textarea>
+
+						<label for="startdate">Start Date</label>
+						<input type="date" id="startdate" name="startdateName">
+						<label id="startdateError" class="error" for="startdate">Starting date must not be empty!</label>
+
+						<label for="enddate" style="margin-top:10px;margin-bottom: 10px;">End Date</label>
+						<input type="date" id="enddate" name="enddateName">
+						<label id="enddateError" class="error" for="enddate">Ending date must not be empty!</label>
+
+
+
+						<label for="starttime">Select starting time:</label>
+						<input type="time" id="starttime" name="starttimeName">
+						<label id="starttimeError" class ="error" for="starttime">Starting time must not be empty!</label>
+
+						<label for="endtime">Select ending time:</label>
+						<input type="time" id="endtime" name="endtimeName">
+						<label id="endtimeError" class="error" for="endtime">Ending time must not be empty!</label>
+
+						<button type="submit" id="myBtn2" class="btn">ADD EVENT</button>
+
+					</form>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<nav></nav>
+
+	<div class="container" style="width: 20%; float: right;">
+		<div class="col">
+			<div class="col-lg-4" style="max-width: none;">
+				<button type="button" id="myBtn" class="btn" style="max-width: none; width: auto; position: absolute; top: 0px; right: 23px;"> <i class="fas fa-plus-circle"></i> ADD EVENT</button>
+			</div>
+
+			<div class="col-lg-4" style="max-width: none; position: absolute; top: 50px; right: 10px;">
+				<div id="memo">
+					<div id="myDIV" class="header">
+						<h3>Select date for event summary</h3>
+						<a href="#" class="off">Show Summary</a>
+					</div>
+
+					<ul id="myUL" class="animate__animated" hidden></ul>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+
+	<section class="notification">
+		<div class="container">
+			<div class="alert alert-success text-center  animate__animated" hidden role="alert">
+				<i class="fas fa-check-circle"></i> Your event was sucessfully added
+			</div>
+		</div>
+	</section>
+
+	<section>
+
+		<div class="container">
+			<div class="row">
+
+				<div class="col-lg-12" >
+					<div>
+						<div class="calendar">
+							<div class="month">
+								<i class="fas fa-angle-left prev"></i>
+								<div class="date">
+									<h1></h1>
+									<p>Fri May 29, 2020</p>
+								</div>
+								<i class="fas fa-angle-right next"></i>
+							</div>
+
+							<div class="main-calendar">
+								<div class="weekdays">
+									<div>Sun</div>
+									<div>Mon</div>
+									<div>Tue</div>
+									<div>Wed</div>
+									<div>Thu</div>
+									<div>Fri</div>
+									<div>Sat</div>
+								</div>
+								<div class="days">
+									<div class="prev-date">26</div>
+									<div class="prev-date">27</div>
+									<div class="prev-date">28</div>
+									<div class="prev-date">29</div>
+									<div class="prev-date">30</div>
+									<div id="d1">1</div>
+									<div>2</div>
+									<div>3</div>
+									<div>4</div>
+									<div>5</div>
+									<div>6</div>
+									<div>7</div>
+									<div>8</div>
+									<div>9</div>
+									<div>10</div>
+									<div>11</div>
+									<div>12</div>
+									<div>13</div>
+									<div>14</div>
+									<div>15</div>
+									<div>16</div>
+									<div>17</div>
+									<div>18</div>
+									<div>19</div>
+									<div>20</div>
+									<div>21</div>
+									<div>22</div>
+									<div>23</div>
+									<div>24</div>
+									<div>25</div>
+									<div>26</div>
+									<div>27</div>
+									<div>28</div>
+									<div>29</div>
+									<div>30</div>
+									<div>31</div>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+	</section>
+
+	<script src="Libraries/Jquery.js"></script>
+	<script src="Libraries/popper.js"></script>
+	<script src="Libraries/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/js/bootstrap.min.js"></script>
+	<script src="Libraries/dateFns.js"></script>
+
+	<script src="./js/data.js"></script>
+	<script defer src="./js/script.js"></script>
+</body>
+
+</html>
