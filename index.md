@@ -3,7 +3,7 @@
 Winnipeg, MB R3B 3J3  
 204-304-1172  
 14akroeker@gmail.com  
-[LinkedIn](linkedin.com/in/adam-kroeker)  
+[LinkedIn](https://www.linkedin.com/in/adam-kroeker)  
 
 ## PROJECTS  
 SEPTEMBER 2022 – DECEMBER 2022  
