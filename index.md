@@ -23,7 +23,7 @@ JANUARY 2022 – APRIL 2022
 
 SEPTEMBER 2021 – DECEMBER 2021  
 **TIME TRACKER APP,** HUMAN-COMPUTER INTERACTION  
-[Click here to use the app in your browser.](https://www.hellothere.rf.gd)  
+[Click here to use the app in your browser.](/TimeTrackerApp/)  
 • Worked as part of a group to create a web app for our Human-Computer Interaction course.  
 • The app helps users schedule their activities and tasks.  
 • Created in JavaScript, HTML, and CSS using the Bootstrap framework and GitHub.   
