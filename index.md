@@ -16,7 +16,7 @@ SEPTEMBER 2022 – DECEMBER 2022
 JANUARY 2022 – APRIL 2022  
 **PERSONAL HEALTHCARE APP,** SOFTWARE ENGINEERING  
 [Click here to see the project website.](/PersonalHealthcareWebsite/)  
-[Click here to get an APK of the app.](https://www.hellothere.rf.gd)  
+[Click here to get an APK of the app.](https://drive.google.com/drive/folders/1j1siGLkH_Gp0NXCIeegCs5K9VZ9d8xMG?usp=sharing)  
 • Worked as part of a group to create an android app for our Software Engineering course.  
 • The app helps users find what health conditions may be causing their symptoms.  
 • Created in Java using Android Studio and GitLab.  
