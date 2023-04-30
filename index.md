@@ -1,3 +1,4 @@
+
 # ADAM KROEKER  
 1654-400 Webb Place  
 Winnipeg, MB R3B 3J3  
@@ -63,11 +64,13 @@ Pollard Banknote Workterm, January 2020 – May 2020
 ## WORK EXPERIENCE  
 **Furniture Assembler**  
 [TaskRabbit](https://www.taskrabbit.ca/ca/en/), September 2020 - September 2021  
-- Independently followed instructions to assemble furniture safely and efficiently.  
+- Worked as an independent contractor on the TaskRabbit platform.  
+- Carefully followed instructions to assemble furniture safely and efficiently.  
 - Moved and positioned furniture according to clients' desired layout.  
 
 **Courier**  
 [SkipTheDishes](https://www.skipthedishes.com/), January 2018 – September 2021  
+- Worked as an independent contractor on the SkipTheDishes platform. 
 - Delivered food in a timely manner to provide a positive customer experience.  
 - Precisely followed delivery instructions to ensure that customers received their order.  
 
@@ -150,6 +153,6 @@ Pollard Banknote Workterm, January 2020 – May 2020
 
 **High School Tech Committee**  
 [MCI](https://mciblues.net/), September 2012 – June 2014  
--   Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
--   Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
+- Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
+- Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
 - Worked with other students to set up and operate lighting and sound systems for various musicals and dramas put on by the school and the community.  
