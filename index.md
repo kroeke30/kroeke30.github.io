@@ -104,7 +104,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Maintained a clean and organized store, allowing customers to easily locate DVDs.
 
 ## TECHNICAL SKILLS  
-**Programming:**  
+**Programming Languages:**  
 - Java
 - C++
 - C
@@ -115,22 +115,24 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - CSS
 
 **Software:**  
-
 - Microsoft Office
-- Eclipse
-- Sourcetree
-- MySQL Workbench
-- Dr. Java
-- CLion
-- IntelliJ IDEA
-- Android Studio
-- Arduino IDE
 - Jira
 - Git
 - GitHub
-- Bitbucket
 - GitLab
+- Bitbucket
+- Sourcetree
 - Bash
+- XAMPP
+- MySQL Workbench
+- Android Studio
+- Visual Studio Code
+- Eclipse
+- Dr. Java
+- CLion
+- IntelliJ IDEA
+- Arduino IDE
+- Notepad++
 
 **Operating Systems:**  
 - Microsoft Windows
@@ -148,6 +150,6 @@ Pollard Banknote Workterm, January 2020 – May 2020
 
 **High School Tech Committee**  
 [MCI](https://mciblues.net/), September 2012 – June 2014  
-- Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
-- Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
+-   Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
+-   Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
 - Worked with other students to set up and operate lighting and sound systems for various musicals  and dramas put on by the school and the community.  
