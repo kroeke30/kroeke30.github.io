@@ -124,6 +124,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - CLion
 - IntelliJ IDEA
 - Android Studio
+- Arduino IDE
 - Jira
 - Git
 - GitHub
@@ -135,3 +136,18 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Microsoft Windows
 - Linux
 - macOS
+
+## OTHER SKILLS AND ACTIVITIES 
+**Advanced Open Water Diving Certification**  
+[PADI](https://www.padi.com/), August 2013  
+- Certified to scuba dive in open water to 30 metres (100 feet).  
+
+**Manitoba Class 5 Driver's License**  
+[MPI](https://www.mpi.mb.ca/Pages/Home.aspx), July 2012  
+- Allowed to operate passenger cars (other than Class 4 vehicles).
+
+**High School Tech Committee**  
+[MCI](https://mciblues.net/), September 2012 – June 2014  
+- Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
+- Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
+- Worked with other students to set up and operate lighting and sound systems for various musicals  and dramas put on by the school and the community.  
