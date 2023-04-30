@@ -152,4 +152,4 @@ Pollard Banknote Workterm, January 2020 – May 2020
 [MCI](https://mciblues.net/), September 2012 – June 2014  
 -   Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
 -   Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
-- Worked with other students to set up and operate lighting and sound systems for various musicals  and dramas put on by the school and the community.  
+- Worked with other students to set up and operate lighting and sound systems for various musicals and dramas put on by the school and the community.  
