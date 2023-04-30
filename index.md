@@ -46,18 +46,18 @@ Conditionally accepted for the Fall 2023 semester, pending completion of my unde
 
 Graduating May 2023  
 **B.Sc. Major (Computer Science),** University of Manitoba  
-Minor in Philosophy
-GPA: 3.22
+Minor in Philosophy  
+GPA: 3.22  
 
 Summer 2014  
-**Explore French Language Bursary Program,** University of Moncton  
-Six-credit French immersion program.
+**Explore French Language Bursary Program,** University of Moncton   
+Six-credit French immersion program.  
 GPA: 3.75  
 
 Graduated June 2014  
 **High School,** Mennonite Collegiate Institute  
-Located in Gretna, MB.
-First-class Honours
+Located in Gretna, MB.  
+First-class Honours  
 
 ## WORK EXPERIENCE  
 September 2020 - September 2021  
@@ -71,7 +71,7 @@ January 2018 – September 2021
 • Precisely followed delivery instructions to ensure that customers received their order.  
 
 January 2020 – May 2020  
-**Application Developer,** Pollard Banknote 
+**Application Developer,** Pollard Banknote  
 • Developed engaging 2D web games and websites both independently and through collaboration with team members.  
 • Maintained clean and organized code in all the projects I worked on to avoid introducing bugs and to improve readability.  
 • Wrote and reviewed technical documents to ensure that procedures are understood and easy to follow.  
@@ -79,26 +79,26 @@ January 2020 – May 2020
 • Wrote PHP scripts for reporting information to clients from data in a MySQL database.  
 
 Summers 2015 – 2019  
-**Production Support,** Friesens
+**Production Support,** Friesens  
 • Collaborated with co-workers to bind and pack books as efficiently as possible.  
 • Maintained a clean work area to ensure smooth workflow.  
 • Operated machinery in a careful manner to improve safety.  
 • Inspected books to ensure quality standards were met.  
 
 September 2016 – April 2017  
-**Community Donation Centre Ambassador,** Value Village
+**Community Donation Centre Ambassador,** Value Village  
 • Received donations from people in the community and explained to them that for every donation they make Value Village would donate money to Diabetes Canada.  
 • Assisted customers in finding merchandise to provide a pleasurable shopping experience.  
 • Organized merchandise so shoppers could find what they need as quickly as possible.  
 • Performed janitorial duties as needed.  
 
 February 2015 – April 2015  
-**Hardware Associate,** Walmart
+**Hardware Associate,** Walmart  
 • Stocked shelves and organized products to improve the store’s appearance.  
 • Mixed paint according to customers’ specifications, allowing them to customize their colour.  
 
 May 2013 – June 2014  
-**Clerk,** Movie Haven
+**Clerk,** Movie Haven  
 • Pleasantly assisted customers in finding DVDs.  
 • Maintained a clean and organized store, allowing customers to easily locate DVDs.
 
