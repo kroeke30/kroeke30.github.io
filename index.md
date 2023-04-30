@@ -10,7 +10,7 @@ September 2022 – December 2022
 **Temperature Chaser Robot,** Robotic Programming  
 [Click here to see images and videos of the robot.](https://drive.google.com/drive/folders/1Enr5P5ziI5ILpJkGsD8HMYNVRkxaqRI3?usp=share_link)  
 • Worked independently to create an Arduino-based robot for my Robotic Programming course.  
-• The robot regulated the temperature of objects by transporting them to areas of different ambient temperature. 
+• The robot regulated the temperature of objects by transporting them to areas of different ambient temperature.  
 • The robot’s program was created entirely by myself in C++ using the Arduino IDE.  
 
 January 2022 – April 2022  
@@ -23,7 +23,7 @@ January 2022 – April 2022
 • Created in Java using Android Studio and GitLab.  
 
 September 2021 – December 2021  
-**Time Tracker App,** Human-Computer Interaction 
+**Time Tracker App,** Human-Computer Interaction  
 [Click here to use the app in your browser.](/TimeTrackerApp/)  
 • Worked as part of a group to create a web app for our Human-Computer Interaction course.  
 • The app helps users schedule their activities and tasks.  
@@ -34,9 +34,9 @@ January 2020 – May 2020
 **Racetrax Game,** Pollard Banknote Workterm  
 [Click here to visit the Kansas Lottery PlayOn website.](https://www.kslottery.com/PlayOn/index.html)  
 • Partnered with a coworker to create a 2D horse-racing web game for the Kansas Lottery during our co-op work term at Pollard Banknote.  
-• The user would select a horse and watch it run to the finish line to win points.
+• The user would select a horse and watch it run to the finish line to win points.  
 • I specifically worked on the start page for the game, including an introductory animation.  
-• Created in JavaScript using the Cocos2D framework and Bitbucket.
+• Created in JavaScript using the Cocos2D framework and Bitbucket.  
 
 
 ## EDUCATION 
