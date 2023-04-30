@@ -50,7 +50,7 @@ Minor in Philosophy
 GPA: 3.22
 
 Summer 2014  
-**Explore French Language Bursary Program,** University of Moncton 
+**Explore French Language Bursary Program,** University of Moncton  
 Six-credit French immersion program.
 GPA: 3.75  
 
