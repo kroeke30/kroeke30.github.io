@@ -5,6 +5,8 @@ Winnipeg, MB R3B 3J3
 14akroeker@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/adam-kroeker)  
 
+As a recent computer science graduate, I am seeking an exciting and challenging software development position that will allow me to leverage my skills and knowledge while continuing to learn and grow.  
+
 ## PROJECTS    
 **Temperature Chaser Robot**  
 Robotic Programming Course, September 2022 – December 2022  
