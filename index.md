@@ -1,4 +1,3 @@
-
 # ADAM KROEKER  
 1654-400 Webb Place  
 Winnipeg, MB R3B 3J3  
@@ -10,41 +9,35 @@ Winnipeg, MB R3B 3J3
 **Temperature Chaser Robot**  
 Robotic Programming Course, September 2022 – December 2022  
 [Images and videos of the robot](https://drive.google.com/drive/folders/1Enr5P5ziI5ILpJkGsD8HMYNVRkxaqRI3?usp=share_link)  
-- Worked independently to create an Arduino-based robot for my Robotic Programming course.  
-- The robot regulated the temperature of objects by transporting them to areas of different ambient temperature.  
-- The robot’s program was created entirely by myself in C++ using the Arduino IDE.  
+- Independently designed, built, and programmed an Arduino-based robot to regulate the temperature of objects by transporting them to areas of different ambient temperature.  
+- Developed the robot's program using C++ in the Arduino IDE, and successfully completed multiple rounds of troubleshooting and debugging to ensure its smooth operation.  
 
 **Personal Healthcare App**  
 Software Engineering Course, January 2022 – April 2022  
-[Project website](/PersonalHealthcareWebsite/)  
-[APK file](https://drive.google.com/drive/folders/1j1siGLkH_Gp0NXCIeegCs5K9VZ9d8xMG?usp=sharing)  
-- Worked as part of a group to create an android app for our Software Engineering course.  
-- The app helps users find what health conditions may be causing their symptoms.  
-- I mostly worked on the Search-by-Picture feature that allows users to submit their symptoms by clicking on an image of the affected body part.  
-- Created in Java using Android Studio and GitLab.  
+[Project website](/PersonalHealthcareWebsite/) | [APK file](https://drive.google.com/drive/folders/1j1siGLkH_Gp0NXCIeegCs5K9VZ9d8xMG?usp=sharing)  
+- Worked with a team to develop an Android app for our Software Engineering course that helps users identify health conditions that may be causing their symptoms.  
+- Collaboratively developed the app's Search-by-Picture feature, allowing users to submit their symptoms by clicking on an image of the affected body part.  
+- Used Java and Android Studio to create the app while using GitLab for version control.  
 
 **Time Tracker App**  
 Human-Computer Interaction Course, September 2021 – December 2021  
 [Use the app in your browser](/TimeTrackerApp/)  
-- Worked as part of a group to create a web app for our Human-Computer Interaction course.  
-- The app helps users schedule their activities and tasks.  
-- I specifically worked on the Saved Reports page that allow users to see previously saved reports.  
-- Created in JavaScript, HTML, and CSS using the Bootstrap framework and GitHub.   
+- Collaborated with a team to develop a web app for our Human-Computer Interaction course that helps users schedule their activities and tasks.  
+- Contributed to the development of the app's Saved Reports feature, which allows users to view previously saved reports.  
+- Used JavaScript, HTML, and CSS with the Bootstrap framework as well as GitHub for version control.   
 
 **Racetrax Game**  
 Pollard Banknote Workterm, January 2020 – May 2020  
 [Kansas Lottery PlayOn website](https://www.kslottery.com/PlayOn/index.html)  
-- Partnered with a coworker to create a 2D horse-racing web game for the Kansas Lottery during our co-op work term at Pollard Banknote.  
-- The user would select a horse and watch it run to the finish line to win points.  
-- I specifically worked on the start page for the game, including an introductory animation.  
-- Created in JavaScript using the Cocos2D framework and Bitbucket.  
-
+- Partnered with a coworker to develop a 2D horse-racing web game for the Kansas Lottery during our co-op work term at Pollard Banknote.  
+- Responsible for the creation of the game's start page which included an introductory animation.  
+- Used JavaScript with the Cocos2D framework and Bitbucket for version control.  
 
 ## EDUCATION 
 **M.Sc. (Information Systems)**  
 [Athabasca University](https://www.athabascau.ca/), Starting September 2023  
 - Conditionally accepted for the Fall 2023 semester, pending completion of my undergraduate program.  
-- Thinking about deferring the start date by one year and studying on a part-time basis.  
+- Considering deferring the start date by one year and studying on a part-time basis.  
 
 **B.Sc. Major (Computer Science)**  
 [University of Manitoba](https://umanitoba.ca/), Graduating May 2023  
@@ -64,15 +57,16 @@ Pollard Banknote Workterm, January 2020 – May 2020
 ## WORK EXPERIENCE  
 **Furniture Assembler**  
 [TaskRabbit](https://www.taskrabbit.ca/ca/en/), September 2020 - September 2021  
-- Worked as an independent contractor on the TaskRabbit platform.  
+- Worked as an independent contractor on the TaskRabbit platform, assembling furniture for clients.  
 - Carefully followed instructions to assemble furniture safely and efficiently.  
 - Moved and positioned furniture according to clients' desired layout.  
+- Frequently communicated with clients to resolve any issues that arose during assembly.
 
 **Courier**  
 [SkipTheDishes](https://www.skipthedishes.com/), January 2018 – September 2021  
-- Worked as an independent contractor on the SkipTheDishes platform. 
-- Delivered food in a timely manner to provide a positive customer experience.  
-- Precisely followed delivery instructions to ensure that customers received their order.  
+- Worked as an independent contractor on the SkipTheDishes platform, delivering food orders to customers.  
+- Maintained a high level of professionalism and provided exceptional customer service to ensure a positive experience for customers.  
+- Followed delivery instructions precisely to ensure accurate and timely delivery.  
 
 **Application Developer**  
 [Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
