@@ -70,7 +70,8 @@ Pollard Banknote Workterm, January 2020 – May 2020
 
 **Application Developer**  
 [Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
-- Developed engaging 2D web games and websites both independently and in collaboration with team members.  
+- Developed engaging 2D web games in JavaScript using the Cocos2d framework.  
+- Collaborated with team members using Sourcetree, Bitbucket, and Jira.  
 - Maintained clean and organized code in all projects I worked on to avoid introducing bugs and improve readability.  
 - Wrote and reviewed technical documents to ensure that procedures were easily understood and followed.  
 - Upgraded code from PHP 5 to PHP 7 and conducted thorough testing.  
