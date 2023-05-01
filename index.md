@@ -70,35 +70,35 @@ Pollard Banknote Workterm, January 2020 – May 2020
 
 **Application Developer**  
 [Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
-- Developed engaging 2D web games and websites both independently and through collaboration with team members.  
-- Maintained clean and organized code in all the projects I worked on to avoid introducing bugs and to improve readability.  
-- Wrote and reviewed technical documents to ensure that procedures are understood and easy to follow.  
-- Helped with upgrading code from PHP 5 to PHP 7 and conducted thorough testing.  
-- Wrote PHP scripts for reporting information to clients from data in a MySQL database.  
+- Developed engaging 2D web games and websites both independently and in collaboration with team members.  
+- Maintained clean and organized code in all projects I worked on to avoid introducing bugs and improve readability.  
+- Wrote and reviewed technical documents to ensure that procedures were easily understood and followed.  
+- Upgraded code from PHP 5 to PHP 7 and conducted thorough testing.  
+- Developed PHP scripts for reporting information to clients from data in a MySQL database.  
 
 **Production Support**  
 [Friesens](https://www.friesens.com/), Summers 2015 – 2019  
-- Collaborated with co-workers to bind and pack books as efficiently as possible.  
-- Maintained a clean work area to ensure smooth workflow.  
+- Worked collaboratively with co-workers to bind and pack books as efficiently as possible.  
+- Maintained a clean work area to ensure smooth workflow and minimize errors.  
 - Operated machinery in a careful manner to improve safety.  
-- Inspected books to ensure quality standards were met.  
+- Conducted thorough inspections of books to ensure that quality standards were met and maintained.  
 
 **Community Donation Centre Ambassador**  
 [Value Village](https://www.valuevillage.ca/), September 2016 – April 2017  
-- Received donations from people in the community and explained to them that for every donation they make Value Village would donate money to Diabetes Canada.  
-- Assisted customers in finding merchandise to provide a pleasurable shopping experience.  
-- Organized merchandise so shoppers could find what they need as quickly as possible.  
-- Performed janitorial duties as needed.  
+- Received donations from people in the community and informed them that Value Village would donate money to Diabetes Canada for every donation made.  
+- Assisted customers in finding merchandise to enhance their shopping experience.  
+- Organized merchandise to ensure a smooth shopping experience for customers.  
+- Performed janitorial duties as needed to maintain a clean and organized store environment.  
 
 **Hardware Associate**  
 [Walmart](https://www.walmart.ca/en), February 2015 – April 2015  
-- Stocked shelves and organized products to improve the store’s appearance.  
-- Mixed paint according to customers’ specifications, allowing them to customize their colour.  
+- Stocked shelves and organized products to maintain a neat and orderly store appearance.  
+- Provided customized paint mixing services to customers, ensuring that their specific colour preferences were met.  
 
 **Clerk**  
 [Movie Haven](https://pizzahaven.ca/), May 2013 – June 2014  
-- Pleasantly assisted customers in finding DVDs.  
-- Maintained a clean and organized store, allowing customers to easily locate DVDs.
+- Provided friendly and helpful customer service by assisting customers in finding DVDs.  
+- Maintained a clean and organized store, ensuring that customers could easily locate DVDs.  
 
 ## TECHNICAL SKILLS  
 **Programming Languages:**  
@@ -111,7 +111,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - HTML
 - CSS
 
-**Software:**  
+**Software and Tools:**  
 - Microsoft Office
 - Jira
 - Git
@@ -147,6 +147,6 @@ Pollard Banknote Workterm, January 2020 – May 2020
 
 **High School Tech Committee**  
 [MCI](https://mciblues.net/), September 2012 – June 2014  
-- Advised the school administration about purchasing computers, projectors, and other equipment to keep the school updated.  
-- Planned the technical aspects of social events, ensuring that lighting and sound systems worked smoothly.  
-- Worked with other students to set up and operate lighting and sound systems for various musicals and dramas put on by the school and the community.  
+- Provided valuable input to the school administration regarding the purchase of computers, projectors, and other equipment to keep the school technologically up-to-date.  
+- Planned and executed the technical aspects of social events, including lighting and sound systems, to ensure a seamless experience for attendees.  
+- Collaborated with fellow students to set up and operate lighting and sound systems for various musicals and dramas hosted by the school and the community.  
