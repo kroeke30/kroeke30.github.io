@@ -44,7 +44,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 **B.Sc. Major (Computer Science)**  
 [University of Manitoba](https://umanitoba.ca/), Graduating May 2023  
 - Minor in Philosophy  
-- GPA: 3.22  
+- GPA: 3.20  
 
 **Explore French Language Bursary Program**  
 [University of Moncton](https://www.umoncton.ca/), Summer 2014  
