@@ -39,7 +39,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 **M.Sc. (Information Systems)**  
 [Athabasca University](https://www.athabascau.ca/), Starting September 2023  
 - Conditionally accepted for the Fall 2023 semester, pending completion of my undergraduate program.  
-- Considering deferring the start date by one year and studying on a part-time basis.  
+- Planning to defer the start date by one year and study on a part-time basis.  
 
 **B.Sc. Major (Computer Science)**  
 [University of Manitoba](https://umanitoba.ca/), Graduating May 2023  
