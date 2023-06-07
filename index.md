@@ -35,12 +35,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Responsible for the creation of the game's start page which included an introductory animation.  
 - Used JavaScript with the Cocos2D framework and Bitbucket for version control.  
 
-## EDUCATION 
-**M.Sc. (Information Systems)**  
-[Athabasca University](https://www.athabascau.ca/), Starting September 2023  
-- Conditionally accepted for the Fall 2023 semester, pending completion of my undergraduate program.  
-- Planning to defer the start date by one year and study on a part-time basis.  
-
+## EDUCATION  
 **B.Sc. Major (Computer Science)**  
 [University of Manitoba](https://umanitoba.ca/), Graduating May 2023  
 - Minor in Philosophy  
