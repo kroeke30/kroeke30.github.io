@@ -36,8 +36,8 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Used JavaScript with the Cocos2D framework and Bitbucket for version control.  
 
 ## EDUCATION  
-**B.Sc. Major (Computer Science)**  
-[University of Manitoba](https://umanitoba.ca/), Graduating May 2023  
+**Bachelor of Science in Computer Science**  
+[University of Manitoba](https://umanitoba.ca/), May 2023  
 - Minor in Philosophy  
 - GPA: 3.20  
 
