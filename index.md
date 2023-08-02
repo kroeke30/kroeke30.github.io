@@ -1,6 +1,6 @@
 # ADAM KROEKER  
-1654-400 Webb Place  
-Winnipeg, MB R3B 3J3  
+D-436 Balmoral Street  
+Winnipeg, MB R3B 2P8  
 204-304-1172  
 14akroeker@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/adam-kroeker)  
