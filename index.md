@@ -1,6 +1,6 @@
 # ADAM KROEKER  
-334 Tenth Street
-Morden, MB  R6M 1L9
+334 Tenth Street  
+Morden, MB  R6M 1L9  
 204-304-1172  
 14akroeker@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/adam-kroeker)  
