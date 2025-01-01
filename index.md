@@ -5,7 +5,33 @@ Morden, MB  R6M 1L9
 14akroeker@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/adam-kroeker)  
 
-As a recent computer science graduate, I am seeking an exciting and challenging software development position that will allow me to leverage my skills and knowledge while continuing to learn and grow.  
+## RELEVANT WORK EXPERIENCE
+**Application Developer**  
+[Triple E](https://www.tripleerv.com/), September 2023 – Present  
+- Collaborate with team members to design, develop, and maintain applications.
+- Partner with various teams to identify requirements and define specifications for new projects.
+- Design and implement APIs to securely deliver data to different departments. 
+- Build solutions using Microsoft frameworks including .NET, MVC, Razor Pages, and Blazor.
+- Maintain Made2Manage ERP database and ensure that in-house applications safely access and manipulate its data. 
+
+**Application Developer**  
+[Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
+- Developed engaging 2D web games in JavaScript using the Cocos2d framework.  
+- Collaborated with team members using Sourcetree, Bitbucket, and Jira.  
+- Maintained clean and organized code in all projects I worked on to avoid introducing bugs and improve readability.  
+- Wrote and reviewed technical documents to ensure that procedures were easily understood and followed.  
+- Upgraded code from PHP 5 to PHP 7 and conducted thorough testing.  
+- Developed PHP scripts for reporting information to clients from data in a MySQL database.  
+
+## RELEVANT EDUCATION  
+**Master of Science in Information Systems**  
+[Athabasca University](https://athabascau.ca/), Expected 2029  
+- Currently studying part-time
+
+**Bachelor of Science in Computer Science**  
+[University of Manitoba](https://umanitoba.ca/), May 2023  
+- Minor in Philosophy  
+- GPA: 3.20  
 
 ## PROJECTS    
 **Temperature Chaser Robot**  
@@ -35,23 +61,7 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Responsible for the creation of the game's start page which included an introductory animation.  
 - Used JavaScript with the Cocos2D framework and Bitbucket for version control.  
 
-## EDUCATION  
-**Bachelor of Science in Computer Science**  
-[University of Manitoba](https://umanitoba.ca/), May 2023  
-- Minor in Philosophy  
-- GPA: 3.20  
-
-**Explore French Language Bursary Program**  
-[University of Moncton](https://www.umoncton.ca/), Summer 2014  
-- Six-credit French immersion program.  
-- GPA: 3.75  
-
-**High School Diploma**  
-[Mennonite Collegiate Institute](https://mciblues.net/), Graduated June 2014  
-- Located in Gretna, MB.  
-- First-class Honours  
-
-## WORK EXPERIENCE  
+## ADDITIONAL WORK EXPERIENCE  
 **Furniture Assembler**  
 [TaskRabbit](https://www.taskrabbit.ca/ca/en/), September 2020 - September 2021  
 - Worked as an independent contractor on the TaskRabbit platform, assembling furniture for clients.  
@@ -64,15 +74,6 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Worked as an independent contractor on the SkipTheDishes platform, delivering food orders to customers.  
 - Maintained a high level of professionalism and provided exceptional customer service to ensure a positive experience for customers.  
 - Followed delivery instructions precisely to ensure accurate and timely delivery.  
-
-**Application Developer**  
-[Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
-- Developed engaging 2D web games in JavaScript using the Cocos2d framework.  
-- Collaborated with team members using Sourcetree, Bitbucket, and Jira.  
-- Maintained clean and organized code in all projects I worked on to avoid introducing bugs and improve readability.  
-- Wrote and reviewed technical documents to ensure that procedures were easily understood and followed.  
-- Upgraded code from PHP 5 to PHP 7 and conducted thorough testing.  
-- Developed PHP scripts for reporting information to clients from data in a MySQL database.  
 
 **Production Support**  
 [Friesens](https://www.friesens.com/), Summers 2015 – 2019  
@@ -98,9 +99,21 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - Provided friendly and helpful customer service by assisting customers in finding DVDs.  
 - Maintained a clean and organized store, ensuring that customers could easily locate DVDs.  
 
+## ADDITIONAL EDUCATION  
+**Explore French Language Bursary Program**  
+[University of Moncton](https://www.umoncton.ca/), Summer 2014  
+- Six-credit French immersion program.  
+- GPA: 3.75  
+
+**High School Diploma**  
+[Mennonite Collegiate Institute](https://mciblues.net/), Graduated June 2014  
+- Located in Gretna, MB.  
+- First-class Honours  
+
 ## TECHNICAL SKILLS  
 **Programming Languages:**  
 - Java
+- C#
 - C++
 - C
 - JavaScript
@@ -108,8 +121,14 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - SQL
 - HTML
 - CSS
+- Visual Basic
 
 **Software and Tools:**  
+- Visual Studio
+- SSMS
+- IIS
+- Made2Manage
+- Postman
 - Microsoft Office
 - Jira
 - Git
