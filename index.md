@@ -24,8 +24,8 @@ Morden, MB  R6M 1L9
 - Developed PHP scripts for reporting information to clients from data in a MySQL database.  
 
 ## RELEVANT EDUCATION  
-**Master of Science in Information Systems**  
-[Athabasca University](https://athabascau.ca/), Expected 2029  
+**Online Master of Science in Computer Science**  
+[Georgia Institute of Technology](https://gatech.edu/), Expected 2029  
 - Currently studying part-time
 
 **Bachelor of Science in Computer Science**  
@@ -154,8 +154,8 @@ Pollard Banknote Workterm, January 2020 – May 2020
 - macOS
 
 ## OTHER SKILLS AND ACTIVITIES 
-**Advanced Open Water Diving Certification**  
-[PADI](https://www.padi.com/), August 2013  
+**Rescue Diver Certification**  
+[PADI](https://www.padi.com/), October 2025  
 - Certified to scuba dive in open water to 30 metres (100 feet).  
 
 **Manitoba Class 5 Driver's License**  
