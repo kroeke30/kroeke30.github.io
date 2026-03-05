@@ -8,11 +8,21 @@ Morden, MB  R6M 1L9
 ## RELEVANT WORK EXPERIENCE
 **Application Developer**  
 [Triple E](https://www.tripleerv.com/), September 2023 – Present  
-- Collaborate with team members to design, develop, and maintain applications.
-- Partner with various teams to identify requirements and define specifications for new projects.
-- Design and implement APIs to securely deliver data to different departments. 
-- Build solutions using Microsoft frameworks including .NET, MVC, Razor Pages, and Blazor.
-- Maintain Made2Manage ERP database and ensure that in-house applications safely access and manipulate its data. 
+- Design, develop, and maintain internal business applications used by about 150 employees
+across multiple departments.
+- Build and support a document management system that stores and organizes about 20 000
+operational documents.
+- Develop data entry applications that streamline internal workflows and improve data accuracy.
+- Design and maintain a content management system that powers customer-facing websites
+managed by the marketing team.
+- Develop and maintain secure APIs that integrate ERP and other business data across internal
+applications.
+- Maintain and extend integrations with the Made2Manage ERP database.
+- Integrate Active Directory authentication into web and desktop applications to enable secure
+user sign-in and manage API key-based access for internal APIs.
+- Build and deploy solutions using C#, .NET, MVC, Razor Pages, Blazor, Entity Framework, SQL
+Server, and Microsoft IIS.
+- Optimize SQL queries and database schema to improve performance and data integrity.
 
 **Application Developer**  
 [Pollard Banknote](https://www.pollardbanknote.com/), January 2020 – May 2020  
